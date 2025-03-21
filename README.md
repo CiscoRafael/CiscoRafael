@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋🏼 Olá! Bem vindo ao meu Github 
+# Meu nome é Francisco Rafael. Atualmente estou cursando engenharia de software na PUC Minas
 
 <!--
 **CiscoRafael/CiscoRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
