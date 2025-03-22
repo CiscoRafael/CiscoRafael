@@ -43,8 +43,6 @@ Meu nome é Francisco Rafael
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" title="VS code" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" height="50">
-  <img src="https://www.apache.org/logos/res/Apache-NetBeans-logo.svg" alt="NetBeans" title="NetBeans" height="50">
-  <img src="https://codeblocks.org/wp-content/uploads/2015/03/cb_logo.png" alt="Code::Blocks" title="Code::Blocks" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" title="Atom" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="50">
 </div>
