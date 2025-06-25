@@ -34,15 +34,19 @@ Atualmente focado em desenvolvimento **front-end** e **back-end**.
 ## ⚙️ Linguagens que uso
 
 <div align="center">
+  <!-- Front-end -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="50"/>
+  <br/><br/>
+  <!-- Back-end -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" title="C" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" title="C++" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="50"/>
 </div>
+
 
 ---
 
