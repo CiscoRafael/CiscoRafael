@@ -52,30 +52,20 @@ Atualmente focado em desenvolvimento **front-end** e **back-end**.
 
   <!-- Front-end -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
-
   <br/><br/>
-
   <!-- Back-end -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" title="Node.js" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" height="50"/>
-
   <br/><br/>
-
   <!-- Mobile -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" title="React Native" height="50"/>
-
   <br/><br/>
-
   <!-- Testes & APIs -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="50"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg" alt="JUnit" title="JUnit" height="50"/>
 </div>
 
 ---
