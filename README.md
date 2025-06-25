@@ -12,7 +12,7 @@ Meu nome é Francisco Rafael
 
 <div>
   <a href="https://github.com/CiscoRafael">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoRafael&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&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"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoRafael&show_icons=true&theme=synthwave&include_all_commits=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoRafael&layout=compact&langs_count=16&theme=synthwave"/>
   </a>
 </div>
