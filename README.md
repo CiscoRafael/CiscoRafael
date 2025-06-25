@@ -80,6 +80,7 @@ Atualmente focado em desenvolvimento **front-end** e **back-end**.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" title="Atom" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" height="50"/>
 </div>
 
 ---
