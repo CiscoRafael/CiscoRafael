@@ -29,6 +29,12 @@ Atualmente focado em desenvolvimento **front-end** e **back-end**.
   </a>
 </div>
 
+### 👥 Repositórios em Grupo
+
+[![Companhia Aérea - Voo Seguro](https://img.shields.io/badge/Companhia_Aérea--Voo_Seguro-code-blue)](https://github.com/GrupoAeds/Companhia-Aerea-Voo-Seguro)  
+
+[![ManagerIO](https://img.shields.io/badge/ManagerIO-code-blue)](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti2-3740100-sistemamanutencaot-i)
+
 ---
 
 ## ⚙️ Linguagens que uso
