@@ -29,7 +29,7 @@ Atualmente focado em desenvolvimento **front-end** e **back-end**.
   </a>
 </div>
 
-### 👥 Repositórios em Grupo
+### 👥 Repositórios Colaborativos
 
 [![Companhia Aérea - Voo Seguro](https://img.shields.io/badge/Companhia_Aérea--Voo_Seguro-code-blue)](https://github.com/GrupoAeds/Companhia-Aerea-Voo-Seguro)  
 
