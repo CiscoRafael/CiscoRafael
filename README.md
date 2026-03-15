@@ -232,7 +232,16 @@ alt="WakaTime Stats" width="466" height="auto" loading="lazy" />
  <td align="center" colspan="3"></td>
 </tr>
 </table>
-
+<tr>
+<td>
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=CiscoRafael&color=9D00FF&style=plastic&base=5&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
+</td>
+<td>
+ <a href="https://wakatime.com/@CiscoRafael" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WakaTime-123hrs-9D00FF?style=plastic&logo=wakatime" alt="Total time coded" loading="lazy" />
+</a>
+</td>
+</tr>
 <table>
 <tr>
  <td align="center"></td>
@@ -240,9 +249,6 @@ alt="WakaTime Stats" width="466" height="auto" loading="lazy" />
 <tr>
  <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
 </tr>
-<tr>
- <td align="center"></td>
-</tr> 
 </table>
 </div>
 </div>
@@ -250,6 +256,21 @@ alt="WakaTime Stats" width="466" height="auto" loading="lazy" />
 -----
 
 <div>
+
+```text
+/**
+ *    ________/\\\\\\\\\__________________________________________________________         
+ *     _____/\\\////////___________________________________________________________        
+ *      ___/\\\/____________/\\\____________________________________________________       
+ *       __/\\\_____________\///___/\\\\\\\\\\_____/\\\\\\\\_____/\\\\\______________      
+ *        _\/\\\______________/\\\_\/\\\//////____/\\\//////____/\\\///\\\____________     
+ *         _\//\\\____________\/\\\_\/\\\\\\\\\\__/\\\__________/\\\__\//\\\___________    
+ *          __\///\\\__________\/\\\_\////////\\\_\//\\\________\//\\\__/\\\____________   
+ *           ____\////\\\\\\\\\_\/\\\__/\\\\\\\\\\__\///\\\\\\\\__\///\\\\\/_____________  
+ *            _______\/////////__\///__\//////////_____\////////_____\/////_______________ 
+ */
+```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D00FF&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 </div>
 
